@@ -1,0 +1,1 @@
+Untuk memunculkan node-module, Ketikkan "npm install" pada terminal project sebelum melakukan "npm start"
